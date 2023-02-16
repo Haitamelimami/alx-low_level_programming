@@ -1,11 +1,9 @@
 #include<stdio.h>
 #include<unistd.h>
 /**
- *  main - Entry point
+ * main - Entry point
  *
- *  prints exactly and that piece of art is useful\" - Dora Korpar
- *
- *  Return = Always 0 (Success)
+ * Return: Always 1 (Success)
  */
 int main(void)
 {
