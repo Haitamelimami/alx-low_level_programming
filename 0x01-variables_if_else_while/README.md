@@ -9,3 +9,4 @@ program that prints all single digit numbers of base 10 starting from 0
 program that prints all the numbers of base 16 in lowercase
 program that prints all possible combinations of single-digit numbers
 program that prints all possible different combinations of two digits
+program that prints all possible different combinations of three digits
