@@ -14,7 +14,7 @@ int main(void)
 	{
 		putchar(n + '0');
 	}
-	for (n = 0 ; n <= 6 ; n++)
+	for (n = 0 ; n < 6 ; n++)
 	{
 		putchar('a' + n);
 	}
