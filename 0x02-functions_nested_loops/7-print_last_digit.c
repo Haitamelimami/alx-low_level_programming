@@ -8,6 +8,10 @@
  */
 int print_last_digit(int n)
 {
+	int nm;
+	int nc;
+	int nd;
+
 	if (n <= -1000 || n >= 1000)
 	{
 		nm = n % 1000;
