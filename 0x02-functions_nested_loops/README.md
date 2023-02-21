@@ -6,3 +6,4 @@ function that prints 10 times the alphabet, in lowercase, followed by a new line
 function that checks for alphabetic character
 function that prints the sign of a number
 function that computes the absolute value of an integer
+function that prints the last digit of a number
