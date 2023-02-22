@@ -7,3 +7,4 @@ function that checks for alphabetic character
 function that prints the sign of a number
 function that computes the absolute value of an integer
 function that prints the last digit of a number
+function that prints the 9 times table, starting with 0
