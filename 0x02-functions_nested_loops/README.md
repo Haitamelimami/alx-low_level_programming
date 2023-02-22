@@ -11,3 +11,4 @@ function that prints the 9 times table, starting with 0
 function that adds two integers and returns the result
  function that prints all natural numbers from n to 98
 function that prints the n times table, starting with 0
+program that computes and prints the sum of all the multiples of 3 or 5 below 1024
